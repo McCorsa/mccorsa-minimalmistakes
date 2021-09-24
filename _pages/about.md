@@ -19,7 +19,7 @@ Years   | Qualification
 Year | Description
 -----|------------
 2017 | Queensland Premier's Coding Challenge (Finalist - Yr. 7-8)
-2019 | Queensland Premier's Coding Challenge (Winner - Yr. 9-10 HTML/JS/Python)
+2019 | [Queensland Premier's Coding Challenge (Winner - Yr. 9-10 HTML/JS/Python)](blog/the-2019-premiers-coding-challenge)
 2021 | QUT High School STEM Internships (Road Safety and Machine Learning)
 
 ### Other Recognition
