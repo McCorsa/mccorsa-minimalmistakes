@@ -3,7 +3,7 @@ permalink: /about/
 title: "About"
 ---
 
-## G'day :wave: 👋
+## G'day :wave:
 My name's Corsa McCorsa and I'm interested in all things technology, design and mathematics - seeing them all work together in harmony for the greater good of society. On this page, you can learn a little bit more about me and who I am.
 
 ## Professional History
