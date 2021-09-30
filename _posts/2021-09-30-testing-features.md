@@ -16,7 +16,10 @@ This post is solely an experiment with a number of different markdown features t
 
 The following equations demonstrate the process of completing the square of a quadratic equation to get to the solutions for x.
 
-$$
+**Primary Notice:** Mathjax should now be working on this page. Fingers crossed 🤞.
+{: .notice--primary}
+
+\\[
 \begin{aligned}
     x^2+6x+11=0\\
     x^2+6x+(\frac{6}{2})^2-(\frac{6}{2})^2+11=0\\
@@ -26,6 +29,6 @@ $$
     (x+3)^2-(\sqrt(2))^2=0\\
     (x+3-\sqrt(2))(x+3+\sqrt(2))=0\\
 \end{aligned}
-$$
+]\\
 
 From here, simply apply the **Null Factor Law** and you're all good!
