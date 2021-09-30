@@ -19,16 +19,16 @@ The following equations demonstrate the process of completing the square of a qu
 **Primary Notice:** Mathjax should now be working on this page. Fingers crossed 🤞. (with scripts.html, not script.html **and** the math now working properly with brackets and script updated (twice).)
 {: .notice--primary}
 
-\\[
-\\begin{aligned}
-    x^2+6x+11=0 \\\\
-    x^2+6x+(\frac{6}{2})^2-(\frac{6}{2})^2+11=0 \\\\
-    x^2+6x+3^2-3^2+11=0 \\\\
-    (x+3)^2-9+11=0 \\\\
-    (x+3)^2+2=0 \\\\
-    (x+3)^2-(\sqrt{2})^2=0 \\\\
-    (x+3-\sqrt{2})(x+3+\sqrt{2})=0 \\\\
-\\end{aligned}
-\\]
+$$
+\begin{aligned}
+    x^2+6x+11=0 \\
+    x^2+6x+(\frac{6}{2})^2-(\frac{6}{2})^2+11=0 \\
+    x^2+6x+3^2-3^2+11=0 \\
+    (x+3)^2-9+11=0 \\
+    (x+3)^2+2=0 \\
+    (x+3)^2-(\sqrt{2})^2=0 \\
+    (x+3-\sqrt{2})(x+3+\sqrt{2})=0 \\
+\end{aligned}
+$$
 
 From here, simply apply the **Null Factor Law** and you're all good!
