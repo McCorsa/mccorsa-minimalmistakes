@@ -56,7 +56,6 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
-  - kramdown-math-katex
 
 author:
   name   : "Corsa McCorsa"
@@ -114,6 +113,3 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
-
-math_engine: katex
-math_engine_opts: {}
