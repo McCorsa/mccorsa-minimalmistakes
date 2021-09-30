@@ -16,7 +16,7 @@ This post is solely an experiment with a number of different markdown features t
 
 The following equations demonstrate the process of completing the square of a quadratic equation to get to the solutions for x.
 
-**Primary Notice:** Mathjax should now be working on this page. Fingers crossed 🤞. (with scripts.html, not script.html **and** the math now working properly with brackets and script updated.)
+**Primary Notice:** Mathjax should now be working on this page. Fingers crossed 🤞. (with scripts.html, not script.html **and** the math now working properly with brackets and script updated (twice).)
 {: .notice--primary}
 
 \[
