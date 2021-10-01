@@ -1,11 +1,11 @@
 ---
 title: "An experiemental post"
-date: 2019-11-13T15:34:30+10:00
-last_modified_at: 2021-09-30T12:00:00+10:00
+date: 2021-10-01T20:00:00+10:00
 categories:
   - blog
 tags:
   - experiments
+mathjax: true
 ---
 
 # Summary

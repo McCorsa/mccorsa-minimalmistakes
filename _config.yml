@@ -99,7 +99,7 @@ defaults:
       comments: true
       share: true
       related: true
-      mathjax: true
+      mathjax: false
   # _pages
   - scope:
       path: "_pages"
