@@ -1,0 +1,3 @@
+Because I'm forgetful:
+
+bundle exec jekyll serve

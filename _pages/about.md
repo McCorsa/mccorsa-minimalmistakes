@@ -3,7 +3,7 @@ permalink: /about/
 title: "About"
 ---
 
-## G'day :wave:
+## G'day! :wave: :australia:
 My name's Corsa McCorsa and I'm interested in all things technology, design and mathematics - seeing them all work together in harmony for the greater good of society. On this page, you can learn a little bit more about me and who I am.
 
 ## Professional History
@@ -28,3 +28,5 @@ Year | Description
 -----|------------
 2019 | ADF Long Tan Youth Leadership Award (Yr. 10)
 2021 | Order of Australia Assn. Secondary Schools Citizenship Award
+2021 | ADF Long Tan Yotuh Leadership Award (Yr. 12)
+2021 | NLSC Senior Student College Service Award
