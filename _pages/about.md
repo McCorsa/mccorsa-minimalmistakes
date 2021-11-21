@@ -4,7 +4,7 @@ title: "About"
 ---
 
 ## G'day! :wave: :australia:
-My name's Corsa McCorsa and I'm interested in all things technology, design and mathematics - seeing them all work together in harmony for the greater good of society. On this page, you can learn a little bit more about me and who I am.
+My name's Corey McCormick and I'm interested in all things technology, design and mathematics - seeing them all work together in harmony for the greater good of society. On this page, you can learn a little bit more about me and who I am.
 
 ## Professional History
 ### Qualifications
@@ -20,6 +20,7 @@ Year | Description
 -----|------------
 2017 | Queensland Premier's Coding Challenge (Finalist - Yr. 7-8)
 2019 | [Queensland Premier's Coding Challenge (Winner - Yr. 9-10 HTML/JS/Python)](../blog/qld-coding-2019)
+2019 | ICAS Digital Technologies Yr. 10 - High Distinction
 2021 | QUT High School STEM Internships (Road Safety and Machine Learning)
 
 ### Other Recognition
